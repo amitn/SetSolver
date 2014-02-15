@@ -1,0 +1,17 @@
+## obj
+*.o
+*.a
+*.so
+
+
+## Vim
+*~
+
+## QtCreator
+*.pro.user
+*.pro.user.*
+*.autosave
+
+
+## Output Directory
+out/
